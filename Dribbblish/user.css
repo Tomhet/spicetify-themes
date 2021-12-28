@@ -1,3 +1,9 @@
+/* lower padding from 128px */
+.contentSpacing {
+    padding-left: 32px !important;
+    padding-right: 32px !important;
+}
+
 .Root {
   padding-top: 30px;
 }
